@@ -1,7 +1,37 @@
 # Tauri + Svelte + Typescript
 
-This template should help get you started developing with Tauri, Svelte and TypeScript in Vite.
+# Inventory Manager App
 
-## Recommended IDE Setup
+## Overview
+The Inventory Manager App is designed to help users efficiently manage their inventory, whether for personal use or business operations. This application provides an intuitive interface for tracking items, managing stock levels, and generating reports. It is developed as part of the HL IB Computer Science Internal Assessment.
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+## Features
+- **User Authentication:** Secure login and registration for users to manage their inventory safely.
+- **Inventory Tracking:** Easily add, update, and remove items from the inventory, keeping track of stock levels.
+- **Dashboard:** A user-friendly dashboard for an overview of inventory status, including stock levels and item details.
+- **Search Functionality:** Quickly find items in the inventory using search options.
+
+## Technologies Used
+- **Programming Language:** Rust
+- **Framework:** Tauri
+- **Database:** PostgreSQL
+- **Frontend Technologies:** JavaScript, HTML, CSS, Svelte
+
+## Installation
+To set up the Inventory Manager App on your local machine, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/inventory-manager-app.git
+   ```
+
+2. Navigate to the project directory
+3. Install the required dependencies
+   ```bash
+   yarn install
+   ```
+4. Set up the PostgreSQL database using ElephantSQL
+5. Run the application
+   ```bash
+   tauri dev
+   ```
