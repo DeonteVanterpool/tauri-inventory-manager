@@ -1,6 +1,5 @@
-# Tauri + Svelte + Typescript
-
 # Inventory Manager App
+See demo here: [video](https://drive.google.com/file/d/1fo-ylTANsF9jvE-zcru3i2QVtBFVikKD/view?usp=sharing)
 
 ## Overview
 The Inventory Manager App is designed to help users efficiently manage their inventory, whether for personal use or business operations. This application provides an intuitive interface for tracking items, managing stock levels, and generating reports. It is developed as part of the HL IB Computer Science Internal Assessment.
