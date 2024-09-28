@@ -1,8 +1,9 @@
 # Inventory Manager App
 See demo here: [video](https://drive.google.com/file/d/1fo-ylTANsF9jvE-zcru3i2QVtBFVikKD/view?usp=sharing)
+See backend code here: [Github Repo](https://github.com/DeonteVanterpool/tauri-inventory-manager-backend.git)
 
 ## Overview
-The Inventory Manager App is designed to help users efficiently manage their inventory, whether for personal use or business operations. This application provides an intuitive interface for tracking items, managing stock levels, and generating reports. It is developed as part of the HL IB Computer Science Internal Assessment.
+The Inventory Manager App is designed to help users efficiently manage their inventory, whether for personal use or business operations. This application provides an intuitive interface for tracking items, and managing stock levels. It is developed as part of my HL IB Computer Science Internal Assessment.
 
 ## Features
 - **User Authentication:** Secure login and registration for users to manage their inventory safely.
