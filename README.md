@@ -1,5 +1,6 @@
 # Inventory Manager App
 See demo here: [video](https://drive.google.com/file/d/1fo-ylTANsF9jvE-zcru3i2QVtBFVikKD/view?usp=sharing)
+
 See backend code here: [Github Repo](https://github.com/DeonteVanterpool/tauri-inventory-manager-backend.git)
 
 ## Overview
